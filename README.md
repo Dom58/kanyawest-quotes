@@ -49,6 +49,9 @@ Kanye West Quotes Technical Test
 
 ### 2. Frontend
   1. To run the frontend copy and past the link generated on command line(cmd) and paste to any  browser on index page you will see all the features of the application.
+
+### 3. Run Test
+Go to your root folder of your project and open ``CMD`` in it and type ``php artisan test``  or run ```./vendor/bin/phpunit```with enter from the keyboard, and wait the test to run.
   
 ## Author
 Dominique Ndahimana
