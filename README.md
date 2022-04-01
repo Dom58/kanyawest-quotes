@@ -53,5 +53,20 @@ Kanye West Quotes Technical Test
 ### 3. Run Test
 Go to your root folder of your project and open ``CMD`` in it and type ``php artisan test``  or run ```./vendor/bin/phpunit```with enter from the keyboard, and wait the test to run.
   
+### 4. Screenshoots
+#### 4.1. Page to display all 5 random quotes of Kanye West
+
+<img width="1330" alt="Screen Shot 2022-04-01 at 20 28 18" src="https://user-images.githubusercontent.com/33524053/161322061-c9834448-eb9c-483a-8a67-95f48c4b8344.png">
+
+#### 4.2. API response to Fetch 5 random quotes of Kanye West from postman
+
+<img width="1001" alt="Screen Shot 2022-04-01 at 20 37 02" src="https://user-images.githubusercontent.com/33524053/161322533-01376aa8-7549-4e39-b140-c90786072616.png">
+
+#### 4.3. Passed Tests
+
+<img width="483" alt="Screen Shot 2022-04-01 at 20 40 30" src="https://user-images.githubusercontent.com/33524053/161322891-4f7064f5-9f31-4589-a5ed-7c573744f302.png">
+
+
+  
 ## Author
 Dominique Ndahimana
